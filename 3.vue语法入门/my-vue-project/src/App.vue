@@ -29,6 +29,13 @@ const addItem = () => {
 }
 </script>
 
+
+
+
+
+
+
+
 <template>
   <div class="container">
     <!-- 基础文本插值 -->
@@ -86,6 +93,14 @@ const addItem = () => {
     </transition>
   </div>
 </template>
+
+
+
+
+
+
+
+
 
 <style scoped>
 .container {
