@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import LocalOnly from './components/LocalOnly.vue'
+import LocalOnly from '../components/LocalOnly.vue'
 
 export default {
   name: 'App',
